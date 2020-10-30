@@ -1,4 +1,4 @@
-Building a LSTM model that classifies IMDB reviews as positive or negative.
+Building a Deep Learning NLP  model( embedding layer + LSTM + hidden layers) that classifies IMDB reviews as positive or negative.
 # References
 https://www.coursera.org/learn/natural-language-processing-tensorflow<br>
 [LSTM](https://www.youtube.com/watch?v=9TFnjJkfqmA&t=29s)<br>
