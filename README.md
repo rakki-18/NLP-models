@@ -11,6 +11,9 @@ Read about word embeddings from [here](https://machinelearningmastery.com/what-a
 - Click on 'Choose File' and then select the vectors.csv file
 - Click on 'Choose File' and then select the words.csv file
 - Check Spherize data
-You should get something similar to this.
-https://user-images.githubusercontent.com/55957545/97743369-8bdc6880-1b0b-11eb-93d5-20d3d640ce75.png
+<br>
+You should get something similar to this.<br>
+![image](https://user-images.githubusercontent.com/55957545/97743369-8bdc6880-1b0b-11eb-93d5-20d3d640ce75.png)
+
+<br>
 Notice how 'bad' and 'vampires' are clustered together :P
